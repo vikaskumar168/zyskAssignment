@@ -12,7 +12,7 @@ const Social = () => {
       <div className="w-[375px] h-[260px] px-0 pt-0 pb-[64px] gap-0 bg-white sm:w-[1440px] sm:h-[296px] sm:pt-[96px] sm:pb-[96px] sm:px-0">
         <div className="w-full h-[196px] px-[16px] gap-[32px] sm:w-[1280px] sm:h-[104px] sm:px-[32px] sm:gap-[32px]">
           {/* Text */}
-          <div className=" text-[#475467] sm:pl-[240px] text-center font-medium text-[16px] leading-[24px] sm:w-[1216px] sm:h-[24px] w-[343px] h-[24px]">
+          <div className=" text-[#475467] sm:pl-[150px] text-center font-medium text-[16px] leading-[24px] sm:w-[1216px] sm:h-[24px] w-[343px] h-[24px]">
             Join 4,000+ companies already growing
           </div>
 
@@ -20,7 +20,7 @@ const Social = () => {
           <div className="w-[1216px] h-[48px] justify-between gap-0 sm:w-[343px] sm:h-[140px] ">
             <div className="w-[1216px] h-[48px] justify-between sm:w-[343px] sm:h-[140px] ">
               {/* Desktop view (1 row, 6 images) */}
-              <div className="hidden sm:flex justify-between pl-[162px] mt-7">
+              <div className="hidden sm:flex justify-between pl-[100px] mt-7">
                 <img
                   src={logo1}
                   alt="Image 1"

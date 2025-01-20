@@ -101,7 +101,7 @@ const Header = () => {
                 <div
                   class="w-[1216px] h-[810px] gap-0 mt-8 ml-[50px] 
             rounded-tl-[12px] rounded-tr-none rounded-br-none rounded-bl-none 
-            border-t-[8px] border-r-0 border-b-0 border-l-0 border-[#101828]"
+            border-t-[8px] border-r-0 border-b-0 border-l-0 border-[#101828] tracking-tight"
                 >
                   <div className="w-[1216px] h-[688px] rounded-xl">
                     <img src={image} alt="" />
